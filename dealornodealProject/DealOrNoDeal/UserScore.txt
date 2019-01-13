@@ -1,9 +1,0 @@
-Name: Chris, And the amount they won $500
-Name: vidhya, And the amount they won $0.
-Name: vids, And the amount they won $0.
-Name: bob, And the amount they won $0.
-Name: srividhya, And the amount they won $0.
-Name: vidhyya, And the amount they won $10000.
-Name: Srividhya, And the amount they won $300.
-Name: , And the amount they won $200000.
-Name: 25, And the amount they won $300.
